@@ -1,0 +1,17 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+1- Öncelikle root 7 seçilmeli 7den küçük olanlar sol tarafa büyük olanlar sağ tarafa eklenir
+
+2- 7 sayısının altına iki ok çıkartılır  sola 5 sağ tarafa 8 yazılır
+
+3- 5 sayısının altına iki ok çıkartılır sola 1 sağa 6 yazılır
+
+4- 1 sayısının altına ok çıkarılır sola 0 sağa 3 yazılır
+
+5- 3 sayısının altına iki ok çıkarılır sola 2 sağa 4 yazılır.
+
+6- 7 sayısının altındaki oka yazdığımız 8 sayısından iki ok çıkarılır sağa 9 yazılır ve tree tamamlanır
+
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje
